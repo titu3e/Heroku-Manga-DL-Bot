@@ -1,4 +1,4 @@
-start_text = '''Welcome to [Manga/Manhwa_Master](https://telegra.ph/file/caad519178dc7716c3162.jpg). Here you can Download all Mangas for Free.
+start_text = '''Welcome to [Manga/Manhwa Master](@manga_manhwa_Robot). Here you can Download all Mangas for Free.
 
 Please read the Instructions carefully before surfing in...
 
@@ -12,5 +12,5 @@ help_text = '''List of commands:
                                
 The files provided are in multiple qualities to download just open filein chrome
                                
-To report any Problems, Bugs, Suggestions go to @Sungjinwoo'''
+To report any Problems, Bugs, Suggestions go to @Sungjinwooarc'''
 
