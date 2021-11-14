@@ -60,7 +60,7 @@ class Manga():
             )
 
         except Exception as e:
-            await event.reply("Something went wrong.....\nCheck if you entered command properly\n\nUse /help or go to \n@SafoTheBot if you have any doubts")
+            await event.reply("Something went wrong.....\nCheck if you entered command properly\n\nUse /help or go to \n@Sungjinwooarc if you have any doubts")
             print(e)
 
     @bot.on(events.CallbackQuery(pattern="mid:"))
