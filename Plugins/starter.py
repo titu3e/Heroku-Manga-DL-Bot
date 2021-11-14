@@ -9,7 +9,7 @@ class start():
         await bot.send_message(
             event.chat_id,
             start_text,
-            file='https://telegra.ph/file/92cf02b20ff395bd5e9e0.jpg'
+            file='https://telegra.ph/file/d6f4d7c9d579f6189ffc4.jpg'
         )
 
     @bot.on(events.NewMessage(pattern="/help"))
@@ -23,6 +23,6 @@ class start():
     async def event_handler_source(event):
         await bot.send_message(
             event.chat_id,
-            '[Channel](https://t.me/Animemusicarchive6)\nThis bot was hosted on Heroku'
+            '[Channel](https://t.me/thundergotechnology)\nThis bot was created by @Sungjinwooarc'
         )
     
