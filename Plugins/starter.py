@@ -17,7 +17,7 @@ class start():
         await bot.send_message(
             event.chat_id,
             help_text,
-            file='https://telegra.ph/file/cd9fb29c55ef6c9815071.mp4'
+            file='https://telegra.ph/file/11935460842ef468d1234.mp4'
         )
 
     @bot.on(events.NewMessage(pattern="/source"))
