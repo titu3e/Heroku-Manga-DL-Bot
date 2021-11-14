@@ -16,8 +16,9 @@ class start():
     async def event_handler_help(event):
         await bot.send_message(
             event.chat_id,
-            help_text
-            )
+            help_text,
+            file='https://telegra.ph/file/cd9fb29c55ef6c9815071.mp4'
+        )
 
     @bot.on(events.NewMessage(pattern="/source"))
     async def event_handler_source(event):
